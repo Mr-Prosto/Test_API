@@ -1,0 +1,7 @@
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.csproj.AssemblyReference.cache
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.AssemblyInfoInputs.cache
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.AssemblyInfo.cs
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.csproj.CoreCompileInputs.cache
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Main\Projects\VS_C#\Test_API\obj\Debug\net8.0\Test_API.MvcApplicationPartsAssemblyInfo.cache
