@@ -13,12 +13,7 @@ namespace Test_API.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] string json)
         {
-            // Process the incoming JSON
             var result = JsonSerializer.Deserialize<dynamic>(json);
-
-            // Here you would typically process the JSON and generate a response
-            // For this example, we'll just return the input JSON
-
             return Ok(result);
         }
     }
